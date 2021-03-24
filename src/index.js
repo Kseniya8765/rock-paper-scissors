@@ -1,4 +1,3 @@
-import "./styles.css";
 
 const game = () => {
   let pScore = 0;
